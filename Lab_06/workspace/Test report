@@ -1,0 +1,14 @@
+Test1 results for addFront: PASSED
+    addFront works.
+Test2 results for addBack: FAILED
+    addBack works exactly like addFront, so it must either call addFront or does the exact same thing.
+Test3 results for isEmpty: FAILED
+    always returns that it is empty
+Test4 results for size: PASSED
+    size works.
+Test5 results for search: PASSED
+    search works.
+Test6 results for removeFront: FAILED
+    does not actually remove a value.
+Test7 results for removeBack: FAILED
+    does not actually remove a value.
